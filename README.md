@@ -33,4 +33,5 @@ This repository’s code is released under the Apache License 2.0.
 
 ## Acknowledgements
 - [Hugging Face Diffusers](https://github.com/huggingface/diffusers/)
+- [Hugging Face PEFT (Parameter-Efficient Fine-Tuning)](https://github.com/huggingface/peft)
 - [Stable Diffusion 3.5 Medium](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium)
