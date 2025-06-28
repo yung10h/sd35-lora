@@ -1,6 +1,6 @@
 # LoRA Fine-Tuning Script for Stable Diffusion 3.5 Medium
 
-This repository provides a training script for fine-tuning **Stable Diffusion 3.5 Medium** using LoRA (Low-Rank Adaptation). IT implements a triple-tokenizer and triple-encoder architecture, enabling the use of all three text encoders from SD 3.5 Medium.
+This repository provides a training script for fine-tuning **Stable Diffusion 3.5 Medium** using LoRA (Low-Rank Adaptation). It implements a triple-tokenizer and triple-encoder architecture, enabling the use of all three text encoders from SD 3.5 Medium.
 > **Note:** No model weights or LoRA adapters are included in this repository.
 
 ## Key Features
