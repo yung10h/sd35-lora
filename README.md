@@ -24,8 +24,8 @@ image_caption_dataset/
 Example captions.tsv:
 ```
 filename	text
-image001.png	A cat sitting on a sofa.
-image002.png	A bowl of ramen with sliced pork.
+0001.png	A cat sitting on a sofa.
+0002.png	A bowl of ramen with sliced pork.
 ```
 
 ## License
